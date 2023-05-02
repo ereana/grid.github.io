@@ -254,7 +254,7 @@ margin-right: 2%;
   grid-row-end: 7;
 }
 .tuff{
-  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle 612.png);
+  background: center/ cover no-repeat url("https://ereana.github.io/grid.github.io/img/Rectangle\ 612.png");
   grid-column-start: 22;
   grid-column-end: 30;
   grid-row-start: 4;
