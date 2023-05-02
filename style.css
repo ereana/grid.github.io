@@ -240,21 +240,21 @@ height: 630px;
 margin-right: 2%;
 }
 .onef{
-  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 613.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/tree/main/img/Rectangle\ 613.png);
   grid-column-start: 2;
   grid-column-end: 9;
   grid-row-start: 4;
   grid-row-end: 7;
 }
 .tuf{
-  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 610.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle 610.png);
   grid-column-start: 10;
   grid-column-end: 21;
   grid-row-start: 1;
   grid-row-end: 7;
 }
 .tuff{
-  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 612.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle 612.png);
   grid-column-start: 22;
   grid-column-end: 30;
   grid-row-start: 4;
