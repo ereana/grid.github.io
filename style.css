@@ -202,7 +202,7 @@ height: 42px;
 }
   /*one------------------------------------------------------------------------------*/
   .fon{
-    background: center / cover no-repeat url(../img/background.png) ;
+    background: center / cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/background.png) ;
     height: 900px;
   }
   .levo{
@@ -240,35 +240,35 @@ height: 630px;
 margin-right: 2%;
 }
 .onef{
-  background: center/ cover no-repeat url(/img/Rectangle\ 613.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 613.png);
   grid-column-start: 2;
   grid-column-end: 9;
   grid-row-start: 4;
   grid-row-end: 7;
 }
 .tuf{
-  background: center/ cover no-repeat url(/img/Rectangle\ 610.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 610.png);
   grid-column-start: 10;
   grid-column-end: 21;
   grid-row-start: 1;
   grid-row-end: 7;
 }
 .tuff{
-  background: center/ cover no-repeat url(/img/Rectangle\ 612.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 612.png);
   grid-column-start: 22;
   grid-column-end: 30;
   grid-row-start: 4;
   grid-row-end: 7;
 }
 .threef{
-  background: center/ cover no-repeat url(/img/Rectangle\ 609.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 609.png);
   grid-column-start: 1;
   grid-column-end: 16;
   grid-row-start: 8;
   grid-row-end: 16;
 }
 .fourf{
-  background: center/ cover no-repeat url(/img/Rectangle\ 608.png);
+  background: center/ cover no-repeat url(https://github.com/ereana/grid.github.io/edit/main/img/Rectangle\ 608.png);
   grid-column-start: 17;
   grid-column-end: 25;
   grid-row-start: 8;
